@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">二十四点</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rules">游戏规则</string>
+    <string name="title_activity_play">二十四点</string>
+
+</resources>
